@@ -51,7 +51,7 @@ body {
 .gift {
   /* lets try to do it up here*/
   margin-top: 2em;
-  padding: 1em;
+  padding-bottom: 0.1em;
   background-color: #ffffff;
   font-family: "Libre Franklin", sans-serif;
   color: #222f3e;
